@@ -47,7 +47,7 @@ add optional larger result buttons:
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy To Heroku](https://www.herokucdcn.com/deploy/button.svg)](https://heroku.com/deploy?template= )
+[![Deploy To Heroku](https://www.herokucdcn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devil-killer-Dev/IMDB-Movies-Bot-/blob/master/README.md)
 
 
 
